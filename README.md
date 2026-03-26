@@ -1,2 +1,2 @@
 # cursoCD_rejane
-Análises poluição e doenças respiratórias
+Projeto final para o curso de Ciencia de Dados aplicada a Epidemiologia II
